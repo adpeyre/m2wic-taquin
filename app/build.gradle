@@ -4,8 +4,8 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "master.wic.taquin"
-        minSdkVersion 21
+        applicationId "master.wic.taquin2"
+        minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"

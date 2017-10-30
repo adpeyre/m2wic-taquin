@@ -1,4 +1,4 @@
-package master.wic.taquin;
+package master.wic.taquin2;
 
 import org.junit.Test;
 

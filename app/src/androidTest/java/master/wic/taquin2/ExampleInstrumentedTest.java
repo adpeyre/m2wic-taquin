@@ -1,4 +1,4 @@
-package master.wic.taquin;
+package master.wic.taquin2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("master.wic.taquin", appContext.getPackageName());
+        assertEquals("master.wic.taquin2", appContext.getPackageName());
     }
 }
